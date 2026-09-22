@@ -245,4 +245,4 @@ This repository serves as the official landing page for Net Nanny. The software 
 **Get the most recent version of Net Nanny today!**
 
 ---
-**Last updated:** 2026-09-22 18:42:52 UTC
+**Last updated:** 2026-09-22 21:57:06 UTC
